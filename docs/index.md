@@ -21,6 +21,8 @@ __Brigham Young University-Idaho__, Rexburg, ID
 
 ## Experience
 
+
+
 #### Data Science Consulting Project Manager
 `April 2022 - Present`
 __Research and Business Development Center__, Rexburg, ID
